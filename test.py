@@ -1,3 +1,6 @@
 import os
 import glob
-"git merge"
+print("git merge")
+#%%
+print("OK")
+# %%
